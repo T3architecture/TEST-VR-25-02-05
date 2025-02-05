@@ -1,0 +1,24 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TEST VISTA 25-02-05
+
+## Skin
+
+### Label
+label4056.text = Projet test 25-02-03
+
+## Media
+
+### Title
+panorama_DC98FF79_D547_523F_41E0_B4AD3D5A6A20.label = 3
+panorama_DF13455E_D547_5677_41DE_FE3F2AE8820E.label = 2
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
